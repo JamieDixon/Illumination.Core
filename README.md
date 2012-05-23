@@ -10,3 +10,8 @@ Includes interfaces for:
 * IWorkflow
 * IFactoryBase
 * IHttpContextFactory
+
+And extension methods for:
+
+* Html.RenderPartials(partialViewName, Models, htmlFormat)
+* String.ToUrlSlug()
