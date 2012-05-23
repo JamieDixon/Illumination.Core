@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Illumination.Core", "Illumination.Core.csproj", "{402C6C2A-8737-40A7-B5D4-C94BC7A6C907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Illumination.Core.Tests", "Illumination.Core.Tests\Illumination.Core.Tests.csproj", "{1E9936B9-EDC1-4BCF-9D14-AC4D8408F4CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{402C6C2A-8737-40A7-B5D4-C94BC7A6C907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402C6C2A-8737-40A7-B5D4-C94BC7A6C907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402C6C2A-8737-40A7-B5D4-C94BC7A6C907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402C6C2A-8737-40A7-B5D4-C94BC7A6C907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E9936B9-EDC1-4BCF-9D14-AC4D8408F4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9936B9-EDC1-4BCF-9D14-AC4D8408F4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E9936B9-EDC1-4BCF-9D14-AC4D8408F4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9936B9-EDC1-4BCF-9D14-AC4D8408F4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
